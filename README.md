@@ -1,1 +1,2 @@
 # Connect-Four-Game
+Implementation of connect four game. The game is to connect-four of one’s own discs of the same color next to each other vertically, horizontally, or diagonally.The two players keep playing until the board is full.The winner is the player having greater number of connected-fours. There are 3 modes of solving the game, mode 1: using mini-max, mode 2: using alpha-beta pruning, mode 3: using expectiminimax.
